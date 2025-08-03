@@ -1,0 +1,2 @@
+config SHIELD_HANDWIRED_TOFU
+    def_bool $(shields_enabled,handwired_tofu)
